@@ -12,8 +12,5 @@ Skills: MongoDB / React / Express / NodeJS / Python
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/github.com/kashanhz999)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/kashan-haider110//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/kashan_hz)  
 
-![Kashan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kashanhz999&show_icons=true&theme=radical)
-
-
-<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kashanhz999)](https://git.io/streak-stats)
 
